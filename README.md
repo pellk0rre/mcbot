@@ -1,0 +1,2 @@
+# mcbot
+bot for minecraft
